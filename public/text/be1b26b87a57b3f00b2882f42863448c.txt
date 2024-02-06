@@ -1,0 +1,71 @@
+MODELADO DE PROCESOS EN EL
+DESARROLLO GLOBAL DE SOFTWARE:
+Se destaca la importancia de un proceso software
+bien definido para garantizar la calidad y la
+productividad en el desarrollo global de software. Se
+propone un marco de trabajo que integra el modelado
+de procesos en este contexto, abordando las
+dificultades específicas del desarrollo a escala global
+y proporcionando una estructura para guiar el
+modelado de procesos software en entornos
+distribuidos geográficamente
+MODELO ITERATIVO
+Basado en repeticiones, este modelo
+permite implementar un conjunto de
+requisitos conocidos, realizar pruebas, y
+evaluar en cada fase o iteración,
+produciendo versiones sucesivas del
+software hasta alcanzar la versión final
+para lanzamiento
+METODOLOGÍA DEVOPS
+Esta metodología enfatiza la
+cooperación continua entre los equipos
+de desarrollo y operaciones durante
+todo el proceso de desarrollo,
+acelerando la entrega de productos
+más confiables y de alta calidad
+DESARROLLO ESPIRAL E
+INCREMENTAL
+Este enfoque se centra en la gestión de riesgos,
+permitiendo el desarrollo incremental del software
+a través de prototipos para reducir los riesgos. Se
+recomienda para proyectos de gran alcance,
+proporcionando buena comunicación con los
+clientes y permitiendo el uso temprano del
+sistema desde los primeros incrementos
+MODELOS DE PROCESOS PARA DGS
+Son marcos metodológicos diseñados para
+facilitar la colaboración eficaz y la gestión de
+proyectos de software entre equipos distribuidos
+geográficamente.
+MODELO DE DESARROLLO
+ESBELTO
+Prioriza la maximización de la eficiencia y la
+minimización del desperdicio, entregando solo lo
+necesario para el producto. Este enfoque es cada vez
+más popular dentro del desarrollo ágil, buscando
+brindar mayor valor a los clientes con menos
+recursos
+ENFOQUE EN ESPIRAL
+Inspirado en el modelo iterativo, el modelo
+en espiral utiliza una serie de iteraciones
+para mejorar el proyecto a través de fases
+de preparación, análisis de riesgo,
+ingeniería y evaluación, permitiendo
+numerosas mejoras
+CONSIDERACIONES GENERALES
+DE SDLC (CICLO DE VIDA DEL
+DESARROLLO DE SOFTWARE)
+Se describen fases cruciales del SDLC, incluyendo la
+recopilación de requisitos, estudio de viabilidad,
+diseño, codificación, y pruebas. Estas etapas son
+fundamentales para comprender el alcance del
+proyecto, definir y documentar necesidades, preparar el
+diseño del sistema, realizar la codificación y llevar a
+cabo las pruebas necesarias para asegurar la
+funcionalidad del software según los requisitos del
+cliente
+Hurtado-Alegría, A., Bastarrica, M. C., Quispe, A., & Ochoa, S. F. (2011). Modelo de procesos en el desarrollo de software global. Ingenium, 9(23), 17-26. Recuperado de https://www.researchgate.net/publication/Modelo_de_procesos_en_el_desarrollo_de_software_global.
+Boehm, B. (1988). Modelos de Desarrollo de Software. Journal of Systems and Software, 8(4), 303-310. Recuperado de https://www.redalyc.org/articulo.oa?id=Modelos De DesarrolloDeSoftware. CodingDojo. (Año de Publicación). Modelo de desarrollo esbelto. Recuperado de
+https://www.cynoteck.com/blog-post/los-9-mejores-modelos-de-desarrollo-de-software-para-elegir-fases-y-aplicaciones/. Cynoteck. (Año de Publicación). Los 9 mejores modelos de desarrollo de software para elegir: fases y aplicaciones. Recuperado de Agregar texto
+Guru99. (Año de Publicación). Fases y modelos del ciclo de vida del desarrollo de software (SDLC). Recuperado de https://www.guru99.com/software-development-life-cycle-tutorial.html
